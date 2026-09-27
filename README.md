@@ -1,6 +1,6 @@
 [![Wednesware](https://github.com/Wednesware/Nitrogen/raw/main/wednesware.png)](https://wednesware.org)
 
-# carbon
+# Carbon
 
 A lightweight cross-platform audio playback library for WAV files. It uses native platform audio APIs to play, loop, and stop sounds while helping prevent overlap and audio conflicts.
 
